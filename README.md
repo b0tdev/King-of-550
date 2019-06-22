@@ -25,5 +25,6 @@ THEN DEPLOY TO HEROKU 😉
 LINKS
 
 [License](https://github.com/b0tdev/King-of-550/blob/master/LICENSE)
+
 [Git.Hub](https://github.com/b0tdev)
 
