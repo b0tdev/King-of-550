@@ -13,7 +13,7 @@ from discord import Game, Embed, Color, Status, ChannelType
 
 
 Forbidden= discord.Embed(title="Permission Denied", description="1) Please check whether you have permission to perform this action or not. \n2) Please check whether my role has permission to perform this action in this channel or not. \n3) Please check my role position.", color=0x00ff00)
-client = Bot(description="DarkBot Bot is best", command_prefix="d!", pm_help = True)
+client = Bot(description="K-O-550 Bot is best", command_prefix="k!", pm_help = True)
 client.remove_command('help')
 
 
@@ -33,8 +33,8 @@ async def on_ready():
     print('Logged in as '+client.user.name+' (ID:'+client.user.id+') | Connected to '+str(len(client.servers))+' servers | Connected to '+str(len(set(client.get_all_members())))+' users')
     print('--------')
     print('--------')
-    print('Started Dark BOT')
-    print('Created by Utkarsh')
+    print('Started K-O-550')
+    print('Created by b0tdev')
     client.loop.create_task(status_task())
 
 
