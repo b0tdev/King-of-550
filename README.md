@@ -8,7 +8,7 @@
 To Make Bot First Go to 
 [[DISCORD DEVELOPERS]]https://discordapp.com/developers
 And Create Your App
-.. image:: https://m.imgur.com/a/O2NpuL0
+.. image:: https://m.imgur.com/a/O2NpuL0/embed.png
    :target: https://discordapp.com/developers/docs/game-sdk/applications
    :alt: Create_App
 Go To Bot Section and Click that add Bot Box.
