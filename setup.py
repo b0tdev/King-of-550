@@ -30,7 +30,7 @@ if version.endswith(('a', 'b', 'rc')):
         pass
 
 readme = ''
-with open('README.rst') as f:
+with open('README.md') as f:
     readme = f.read()
 
 extras_require = {
@@ -43,12 +43,12 @@ extras_require = {
 }
 
 setup(name='discord.py',
-      author='DD',
-      url='https://github.com/b0tdev/Alpha-Bot',
+      author='Rapptz',
+      url='https://github.com/b0tdev/King-of-550/tree/master',
       
       version=version,
       packages=['discord', 'discord.ext.commands', 'discord.ext.tasks'],
-      license='MIT',
+      license='Apache-2.0',
       description='A python wrapper for the Discord API',
       long_description=readme,
       long_description_content_type="text/x-rst",
@@ -58,7 +58,7 @@ setup(name='discord.py',
       python_requires='>=3.5.3',
       classifiers=[
         'Development Status :: 5 - Production/Stable',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: Apache-2.0 License',
         'Intended Audience :: Developers',
         'Natural Language :: English',
         'Operating System :: OS Independent',
