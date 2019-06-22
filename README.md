@@ -22,7 +22,7 @@ THEN DEPLOY TO HEROKU 😉
 
 !__HAPPY HUNTING__!
 
-LINKS
+# LINKS
 
 [License](https://github.com/b0tdev/King-of-550/blob/master/LICENSE)
 
