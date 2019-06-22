@@ -42,7 +42,7 @@ extras_require = {
     ]
 }
 
-setup(name='discord.py',
+setup(name='King-of-550',
       author='DD',
       url='https://github.com/b0tdev/Alpha-Bot',
       
