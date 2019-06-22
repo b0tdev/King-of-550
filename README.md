@@ -3,12 +3,12 @@
 
 **King Of 550 Bot is the Fun and Awasome bot. Which only work for 550hrs every month. So we call it as King of 550. This will soon published in discord library**
 
-**.. Installation ..
+### Installation
 
-To Make Bot First Go to 
+**To Make Bot First Go to 
 DISCORD DEVELOPERS - https://discordapp.com/developers
 And Create Your App
-https://discordapp.com/developers/docs/game-sdk/applications
+[Dev Link](https://discordapp.com/developers/docs/game-sdk/applications)
 
 Go To Bot Section and Click that add Bot Box.
 https://discordapp.com/developers/applications/
